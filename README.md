@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Pooja**
 
-Aspiring Python and Software Developer with a strong foundation in application development and data handling
+***_Aspiring Python and Software Developer with a strong foundation in application development and data handling_***
 
 ---
 
