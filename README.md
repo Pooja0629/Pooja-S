@@ -35,7 +35,7 @@ Email: poojashree2266@gmail.com
 
 ## 🛠️ Technologies & Tools
 
-<p align="left"> <!-- Skillicons for supported tools --> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mongodb,figma,postgresql,flask,mysql" width="40" /> &nbsp; <!-- Direct images for unsupported tools --> <img src="https://upload.wikimedia.org/wikipedia/commons/10/10xPandas_logo.svg" width="40" title="Pandas"/> &nbsp; <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" title="Seaborn"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mongodb,figma,matplotlib,postgresql,streamlit,seaborn,flask" /> </p>
 
 
 ---
