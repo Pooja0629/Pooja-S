@@ -50,8 +50,7 @@ Email: poojashree2266@gmail.com
 
 ## 🤝 Connect with Me
 
-📧 [Email](mailto:poojashree2266@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/pooja-shree-187aa6293/)
+<p align="left"> <a href="mailto:poojashree2266@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="40" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/pooja-shree-187aa6293/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> </a> </p>
 
 
 ---
