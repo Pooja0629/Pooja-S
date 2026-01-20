@@ -7,6 +7,7 @@ Aspiring Python and Software Developer with a strong foundation in application d
 ## 🔭 Currently Working On
 
 **Real-Time Social Media Analytics Dashboard**  
+
 A Python-based application focused on analyzing and visualizing social media data to derive meaningful insights.
 
 ---
