@@ -36,7 +36,7 @@ Email: poojashree2266@gmail.com
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,mysql,mongodb,figma,pandas,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mongodb,figma,matplotlib,postgresql,streamlit,seaborn,flask" />
 </p>
 
 
