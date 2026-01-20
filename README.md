@@ -5,12 +5,14 @@ Aspiring Python and Software Developer with a strong foundation in application d
 ---
 
 ## 🔭 Currently Working On
+
 **Real-Time Social Media Analytics Dashboard**  
 A Python-based application focused on analyzing and visualizing social media data to derive meaningful insights.
 
 ---
 
 ## 🌱 Currently Exploring
+
 - Advanced Python programming
 - Backend development concepts
 - Data handling and visualization
@@ -18,16 +20,24 @@ A Python-based application focused on analyzing and visualizing social media dat
 
 ---
 
-## 💻 Selected Projects
+## Projects
 
-👉 More projects: https://github.com/Pooja0629
+View my work on GitHub:  
+https://github.com/Pooja0629
+
+## Reach Me
+
+Email: poojashree2266@gmail.com
+
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,mysql,mongodb,react,streamlit,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,mysql,mongodb,figma,postman,docker" />
 </p>
+
 
 ---
 
@@ -38,10 +48,12 @@ A Python-based application focused on analyzing and visualizing social media dat
 
 ---
 
-## 📫 Contact
-- Email: poojashree2266@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/pooja-shree-187aa6293/
+## 🤝 Connect with Me
+
+📧 [Email](mailto:poojashree2266@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pooja-shree-187aa6293/)
+
 
 ---
 
-> *“Simplicity is the ultimate sophistication.”*
+> *“Every problem is an opportunity to build a better solution.”*
